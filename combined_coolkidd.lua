@@ -1,4 +1,5 @@
 
+
 pcall(function()
 	local old1 = game:GetService("CoreGui"):FindFirstChild("C00lkidd_Cl4n_v2")
 	if old1 then old1:Destroy() end
