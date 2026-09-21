@@ -1471,4 +1471,4 @@ end)
 v38:AddButton("DEX explorer", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/dex.lua"))()
 end)
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scra554/cooluiloader/refs/heads/main/load"))()
