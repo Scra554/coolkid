@@ -1,4 +1,3 @@
--- This file was generated at discord.gg/syncrypt
 
 pcall(function()
 	local old1 = game:GetService("CoreGui"):FindFirstChild("C00lkidd_Cl4n_v2")
